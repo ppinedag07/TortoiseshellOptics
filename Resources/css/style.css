@@ -257,6 +257,14 @@ footer {
 
   .aboutus-philosophy p, .aboutus-appointments p {
     font-size: 0.77rem;
-    padding-left: 2%;    
+    padding-left: 2%;
+  }
+
+  .copyright {
+    justify-content: center;
+  }
+
+  .copyright span {
+    display: none;
   }
 }
